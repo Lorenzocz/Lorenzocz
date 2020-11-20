@@ -1,6 +1,8 @@
+# Hola bienvenido al portafolio de lorenzodevelop!
+
 ![Farmers Market Finder Demo](video/porta.gif)
 
-# Hola bienvenido al portafolio de lorenzodevelop!
+# Informcación.
 
 Soy una persona apasionada por el desarrollo móvil, dispuesto a mejor y a prender día con día, amante a mi carrera y al crecimiento profesional.
 Mi actitud para el trabajo en equipo y la facilidad de comunicarme con otras personas me han hecho crecer de muchas formas y ser participe de muchas de las decisiones que ayudan el crecimiento del equipo de trabajo.
