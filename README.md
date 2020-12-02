@@ -30,6 +30,5 @@ Mi actitud para el trabajo en equipo y la facilidad de comunicarme con otras per
   <img align="left" alt="Lorenzo Carazo LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-# Portafolio online
-#  
-<a href="https://lottoappnuevostiempos.herokuapp.com/"> Portafolio </a>
+# Portafolio online  
+<a href="https://lottoappnuevostiempos.herokuapp.com/"> Visita mi Portáfolio </a>
