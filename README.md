@@ -31,5 +31,5 @@ Mi actitud para el trabajo en equipo y la facilidad de comunicarme con otras per
 </a>
 
 # Portafolio online
-
-<a href="https://lottoappnuevostiempos.herokuapp.com/">
+#  
+<a href="https://lottoappnuevostiempos.herokuapp.com/"> Portafolio </a>
