@@ -5,25 +5,31 @@
 
 # Información.
 
-Soy una persona apasionada por el desarrollo móvil, dispuesto a mejor y a prender día con día, amante a mi carrera y al crecimiento profesional.
+Soy una persona apasionada por el desarrollo, dispuesto a mejor y a prender día con día, amante a mi carrera y al crecimiento profesional.
 Mi actitud para el trabajo en equipo y la facilidad de comunicarme con otras personas me han hecho crecer de muchas formas y ser participe de muchas de las decisiones que ayudan el crecimiento del equipo de trabajo.
 
 # Lenguajes:
 
 - Dart.
 - C#.
-- Koltin.
+- JavaScript.
 
 # Framework
 
 -  Flutter.
-- .Net Core.
--  Boostrap
+- React js.
+- React Native
+- Boostrap
 
 # Maquetado
 
 - Html
-- Css como hojo de estilos.
+- Css.
+
+# Manejador de versionamientos
+- Git.
+- Bitbucket
+
 # Red Social
 
 <a href="https://www.linkedin.com/in/lorenzo-carazo-zu%C3%B1iga-26947a197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7L4xYaWERwu%2BB%2B8JKteJAg%3D%3D">
